@@ -1,4 +1,4 @@
-# 
+# 官方 A web AI object detection 预设。集成 自动决策 和 特征提取，性能最大化。
 
 
 
